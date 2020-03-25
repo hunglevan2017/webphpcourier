@@ -1,0 +1,12 @@
+.boder-select{
+  border: 0.125rem solid #CED4DB;
+  border-radius: 0.25rem;
+}
+
+.text-right > .dt-buttons{
+  float:right
+}
+
+.hide{
+  display: none;
+}
